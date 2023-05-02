@@ -10,7 +10,7 @@ import toppra as ta
 from toppra.constraint import (DiscretizationType, JointAccelerationConstraint,
                                JointVelocityConstraint)
 
-from . import util
+import util
 
 
 class Stroke:
